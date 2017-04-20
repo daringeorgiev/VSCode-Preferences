@@ -1,0 +1,13 @@
+// Place your settings in this file to overwrite the default settings
+{
+    "bookmarks.navigateThroughAllFiles": true,
+    "bookmarks.saveBookmarksBetweenSessions": true,
+    "bookmarks.useStickyBookmarks": true,
+    "editor.minimap.enabled": true,
+    "editor.minimap.maxColumn": 80,
+    "editor.mouseWheelZoom": true,
+    "editor.renderIndentGuides": true,
+    "editor.renderWhitespace": "all",
+    "editor.snippetSuggestions": "top",
+    "workbench.editor.enablePreview": false
+}
