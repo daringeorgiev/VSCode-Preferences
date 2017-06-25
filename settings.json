@@ -7,5 +7,7 @@
     "editor.renderIndentGuides": true,
     "editor.renderWhitespace": "all",
     "editor.snippetSuggestions": "top",
-    "workbench.editor.enablePreview": false
+    "workbench.editor.enablePreview": false,
+    "gitlens.annotations.line.trailing.hover.details": false,
+    "gitlens.annotations.line.trailing.hover.changes": false
 }

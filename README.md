@@ -5,3 +5,5 @@ My Visual Studio Code Preferences
 [Beautify](https://marketplace.visualstudio.com/items?itemName=HookyQR.beautify) - Beautify javascript, JSON, CSS, Sass, and HTML in Visual Studio Code.
 
 [Bookmarks](https://marketplace.visualstudio.com/items?itemName=alefragnani.Bookmarks) - Mark lines in the editor and easily jump to them.
+
+[Git Lens](https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens) - Supercharge Visual Studio Code's Git capabilities.
